@@ -1,5 +1,6 @@
 {
   "name": "UseScope",
+   "version": "1.8.7  ",
   "description": "",
   "main": "",
   "authors": [
@@ -8,10 +9,6 @@
   "license": "MIT",
   "homepage": "https://github.com/vinhxk1997/demo-bower.git",
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "README.md"
   ]
 }
